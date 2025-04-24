@@ -106,7 +106,7 @@
     "degree": "Bachelor of Engineering - BE, Wirtschaftsingenieurwesen",
     "started in": "2012",
     "finished in": "2019",
-    "time": "2012-09-01T00:00:00Z",
+    "time2": "2012-09-01T00:00:00Z",
     "time spend": "8 Jahre"
   },
   {
@@ -114,7 +114,7 @@
     "degree": "Abitur",
     "started in": "2003",
     "finished in": "2011",
-    "time": "2003-09-01T00:00:00Z",
+    "time2": "2003-09-01T00:00:00Z",
     "time spend": "8 Jahre"
   }
 ]
