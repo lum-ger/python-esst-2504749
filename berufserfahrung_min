@@ -4,34 +4,34 @@
     "von": "2024-04-01",
     "bis": "2025-04-24",
     "time": "2024-04-01T00:00:00Z",
-    "value": 389
+    "value": "1 Jahr 1 Monat"
   },
   {
     "metric": "Senior Consultant",
     "von": "2023-04-01",
     "bis": "2024-04-01",
     "time": "2023-04-01T00:00:00Z",
-    "value": 366
+    "value": "1 Jahr"
   },
   {
     "metric": "Consultant",
     "von": "2019-06-01",
     "bis": "2023-04-01",
     "time": "2019-06-01T00:00:00Z",
-    "value": 1370
+    "value": "4 Jahre"
   },
   {
     "metric": "Werkstudent",
     "von": "2016-10-01",
     "bis": "2019-04-01",
     "time": "2016-10-01T00:00:00Z",
-    "value": 912
+    "value": "2 Jahre 7 Monate"
   },
   {
     "metric": "Studentenjob",
     "von": "2011-07-01",
     "bis": "2016-09-01",
     "time": "2011-07-01T00:00:00Z",
-    "value": 1889
+    "value": "5 Jahre 3 Monate"
   }
 ]
