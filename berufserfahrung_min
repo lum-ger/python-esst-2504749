@@ -101,4 +101,20 @@
       "Schweißen"
     ]
   }
+  {
+    "company": "FAU Erlangen-Nürnberg",
+    "position": "Bachelor of Engineering - BE, Wirtschaftsingenieurwesen",
+    "since": "2012",
+    "until": "2019",
+    "time": "2012-09-01T00:00:00Z",
+    "duration": "8 Jahre"
+  },
+  {
+    "company": "Gymansium Oberhaching",
+    "position": "Abitur",
+    "since": "2003",
+    "until": "2011",
+    "time": "2003-09-01T00:00:00Z",
+    "duration": "8 Jahre"
+  }
 ]
