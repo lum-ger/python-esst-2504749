@@ -3,20 +3,47 @@
     "number": "5",
     "Firma": "Ascon Systems GmbH",
     "Position": "Senior Solutions Architect",
-    "Von": "2024-04-01",
-    "Bis": "2025-04-24",
+    "Von": "01.04.2024",
+    "Bis": "24.04.2025",
     "Dauer": "1 Jahr und 1 Monat",
     "Ort": "München, Bayern, Deutschland · Hybrid",
-    "time": 2024-04-01T00:00:00Z,
+    "Kenntnisse": [
+      "Kostenvoranschlagserstellung",
+      "Analytische Fähigkeiten",
+      "Informatik",
+      "Account-Management",
+      "Technischer Support",
+      "Cloud-Infrastruktur",
+      "Kundenverfolg",
+      "Vertragsabschluss",
+      "Kubernetes",
+      "IT-Lösungen",
+      "Produktlebenszyklusmanagement",
+      "Anforderungsmanagement",
+      "Kundenzufriedenheit",
+      "Prompt Engineering",
+      "Projektgruppen",
+      "Angebotserstellung",
+      "Agiles Projektmanagement",
+      "ArgoCD",
+      "Anwendungsarchitektur",
+      "Beratungsdienste",
+      "Testmanagement",
+      "Fehlerbehebung",
+      "Spezifikationen",
+      "Programmierschnittstellen",
+      "IT-Infrastruktur-Management"
+    ],
+    "time": 1711922400,
     "metric": "Senior Solutions Architect",
-    "value": 5
+    "value": 1
   },
   {
     "number": "4",
     "Firma": "Ascon Systems GmbH",
     "Position": "Senior Consultant",
-    "Von": "2023-04-01",
-    "Bis": "2024-04-01",
+    "Von": "01.04.2023",
+    "Bis": "01.04.2024",
     "Dauer": "1 Jahr und 1 Monat",
     "Ort": "München, Bayern, Deutschland · Hybrid",
     "Kenntnisse": [
@@ -40,7 +67,7 @@
       "Fehlerbehebung",
       "Spezifikationen"
     ],
-    "time": 2023-04-01T00:00:00Z,
+    "time": 1680300000,
     "metric": "Senior Consultant",
     "value": 1
   },
@@ -48,8 +75,8 @@
     "number": "3",
     "Firma": "Ascon Systems GmbH",
     "Position": "Consultant",
-    "Von": "2019-06-01",
-    "Bis": "2023-04-01",
+    "Von": "01.06.2019",
+    "Bis": "01.04.2023",
     "Dauer": "4 Jahre",
     "Ort": "München",
     "Kenntnisse": [
@@ -73,7 +100,7 @@
       "Fehlerbehebung",
       "Spezifikationen"
     ],
-    "time": 2019-06-01T00:00:00Z,
+    "time": 1559349600,
     "metric": "Consultant",
     "value": 1
   },
@@ -81,8 +108,8 @@
     "Firma": "NTT DATA Deutschland GmbH",
     "number": "2",
     "Position": "Werkstudent",
-    "Von": "2016-10-01",
-    "Bis": "2019-04-01",
+    "Von": "01.10.2016",
+    "Bis": "01.04.2019",
     "Dauer": "2 Jahre 7 Monate",
     "Ort": "München und Umgebung, Deutschland",
     "Kenntnisse": [
@@ -93,7 +120,7 @@
       "Spezifikationen",
       "Microsoft Access"
     ],
-    "time": 2016-10-01T00:00:00Z,
+    "time": 1475272800,
     "metric": "Werkstudent",
     "value": 1
   },
@@ -101,8 +128,8 @@
     "Firma": "Autohaus BMW Hengge GmbH",
     "number": "1",
     "Position": "Studentenjob",
-    "Von": "2011-07-01",
-    "Bis": "2016-09-01",
+    "Von": "01.07.2011",
+    "Bis": "01.09.2016",
     "Dauer": "5 Jahre 3 Monate",
     "Ort": "Oberhaching",
     "Kenntnisse": [
@@ -111,7 +138,7 @@
       "Maler- und Lackierarbeiten",
       "Schweißen"
     ],
-    "time": 2011-07-01T00:00:00Z,
+    "time": 1309461600,
     "metric": "Studentenjob",
     "value": 1
   }
