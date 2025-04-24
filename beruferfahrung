@@ -3,8 +3,8 @@
     "number": "5",
     "Firma": "Ascon Systems GmbH",
     "Position": "Senior Solutions Architect",
-    "Von": "01.04.2024",
-    "Bis": "24.04.2025",
+    "Von": "2024-04-01",
+    "Bis": "2025-04-24",
     "Dauer": "1 Jahr und 1 Monat",
     "Ort": "München, Bayern, Deutschland · Hybrid",
     "Kenntnisse": [
@@ -33,14 +33,17 @@
       "Spezifikationen",
       "Programmierschnittstellen",
       "IT-Infrastruktur-Management"
-    ]
+    ],
+    "time": "2024-04-01",
+    "metric": "Senior Solutions Architect",
+    "value": 1
   },
   {
-    "number": "4",    
+    "number": "4",
     "Firma": "Ascon Systems GmbH",
     "Position": "Senior Consultant",
-    "Von": "01.04.2023",
-    "Bis": "01.04.2024",
+    "Von": "2023-04-01",
+    "Bis": "2024-04-01",
     "Dauer": "1 Jahr und 1 Monat",
     "Ort": "München, Bayern, Deutschland · Hybrid",
     "Kenntnisse": [
@@ -63,14 +66,17 @@
       "Testmanagement",
       "Fehlerbehebung",
       "Spezifikationen"
-    ]
+    ],
+    "time": "2023-04-01",
+    "metric": "Senior Consultant",
+    "value": 1
   },
   {
     "number": "3",
     "Firma": "Ascon Systems GmbH",
     "Position": "Consultant",
-    "Von": "01.06.2019",
-    "Bis": "01.04.2023",
+    "Von": "2019-06-01",
+    "Bis": "2023-04-01",
     "Dauer": "4 Jahre",
     "Ort": "München",
     "Kenntnisse": [
@@ -93,14 +99,17 @@
       "Testmanagement",
       "Fehlerbehebung",
       "Spezifikationen"
-    ]
+    ],
+    "time": "2019-06-01",
+    "metric": "Consultant",
+    "value": 1
   },
   {
     "Firma": "NTT DATA Deutschland GmbH",
     "number": "2",
     "Position": "Werkstudent",
-    "Von": "01.10.2016",
-    "Bis": "01.04.2019",
+    "Von": "2016-10-01",
+    "Bis": "2019-04-01",
     "Dauer": "2 Jahre 7 Monate",
     "Ort": "München und Umgebung, Deutschland",
     "Kenntnisse": [
@@ -110,14 +119,17 @@
       "Beratungsdienste",
       "Spezifikationen",
       "Microsoft Access"
-    ]
+    ],
+    "time": "2016-10-01",
+    "metric": "Werkstudent",
+    "value": 1
   },
   {
     "Firma": "Autohaus BMW Hengge GmbH",
     "number": "1",
     "Position": "Studentenjob",
-    "Von": "01.07.2011",
-    "Bis": "01.09.2016",
+    "Von": "2011-07-01",
+    "Bis": "2016-09-01",
     "Dauer": "5 Jahre 3 Monate",
     "Ort": "Oberhaching",
     "Kenntnisse": [
@@ -125,6 +137,9 @@
       "Mechanik",
       "Maler- und Lackierarbeiten",
       "Schweißen"
-    ]
+    ],
+    "time": "2011-07-01",
+    "metric": "Studentenjob",
+    "value": 1
   }
 ]
