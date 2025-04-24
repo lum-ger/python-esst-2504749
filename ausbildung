@@ -16,3 +16,22 @@
     "duration": "8 Jahre"
   }
 ]
+
+
+  },
+  {
+    "school": "FAU Erlangen-Nürnberg",
+    "degree": "Bachelor of Engineering - BE, Wirtschaftsingenieurwesen",
+    "started in": "2012",
+    "finished in": "2019",
+    "time2": "2012-09-01T00:00:00Z",
+    "time spend": "8 Jahre"
+  },
+  {
+    "school": "Gymansium Oberhaching",
+    "degree": "Abitur",
+    "started in": "2003",
+    "finished in": "2011",
+    "time2": "2003-09-01T00:00:00Z",
+    "time spend": "8 Jahre"
+  }
