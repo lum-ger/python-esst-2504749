@@ -7,7 +7,7 @@
     "Bis": "2025-04-24",
     "Dauer": "1 Jahr und 1 Monat",
     "Ort": "München, Bayern, Deutschland · Hybrid",
-    "Kenntnisse": [
+    # "Kenntnisse": [
       "Kostenvoranschlagserstellung",
       "Analytische Fähigkeiten",
       "Informatik",
@@ -36,7 +36,7 @@
     ],
     "time": "2024-04-01",
     "metric": "Senior Solutions Architect",
-    "value": 1
+    "value": 5
   },
   {
     "number": "4",
