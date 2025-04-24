@@ -1,0 +1,22 @@
+[
+  { "kenntnis": "IT-Lösungen", "kompetenz": 90 },
+  { "kenntnis": "Anwendungsarchitektur", "kompetenz": 85 },
+  { "kenntnis": "Cloud-Infrastruktur", "kompetenz": 85 },
+  { "kenntnis": "Kubernetes", "kompetenz": 80 },
+  { "kenntnis": "DevOps", "kompetenz": 80 },
+  { "kenntnis": "Software Engineering Practices", "kompetenz": 85 },
+  { "kenntnis": "Continuous Integration und Continuous Delivery (CI/CD)", "kompetenz": 60 },
+  { "kenntnis": "Projektmanagement", "kompetenz": 85 },
+  { "kenntnis": "Anforderungsmanagement", "kompetenz": 90 },
+  { "kenntnis": "Programmmierschnittstellen", "kompetenz": 75 },
+  { "kenntnis": "Analytische Fähigkeiten", "kompetenz": 90 },
+  { "kenntnis": "Problemlösung", "kompetenz": 90 },
+  { "kenntnis": "Kommunikation", "kompetenz": 90 },
+  { "kenntnis": "Präsentationen", "kompetenz": 80 },
+  { "kenntnis": "Beratungsdienste", "kompetenz": 80 },
+  { "kenntnis": "Spezifikationen", "kompetenz": 75 },
+  { "kenntnis": "IT-Infrastruktur-Management", "kompetenz": 70 },
+  { "kenntnis": "Agiles Projektmanagement", "kompetenz": 85 },
+  { "kenntnis": "Terraform", "kompetenz": 30 },
+  { "kenntnis": "Site Reliability Engineering", "kompetenz": 60 }
+]
