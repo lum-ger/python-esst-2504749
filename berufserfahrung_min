@@ -76,7 +76,7 @@
     "since": "2016-10-01",
     "until": "2019-04-01",
     "time": "2016-10-01T00:00:00Z",
-    "duration": "2 Jahre 7 Monate"
+    "duration": "2 Jahre 7 Monate",
     "Kenntnisse": [
       "Analytische Fähigkeiten",
       "Geschäftsprozessmanagement",
@@ -92,6 +92,11 @@
     "since": "2011-07-01",
     "until": "2016-09-01",
     "time": "2011-07-01T00:00:00Z",
-    "duration": "5 Jahre 3 Monate"
+    "duration": "5 Jahre 3 Monate",
+   "Kenntnisse": ["Mechatronik",
+      "Mechanik",
+      "Maler- und Lackierarbeiten",
+      "Schweißen"
+    ],
   }
 ]
