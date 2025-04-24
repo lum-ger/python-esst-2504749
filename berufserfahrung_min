@@ -32,10 +32,10 @@
       "Spezifikationen",
       "Programmierschnittstellen",
       "IT-Infrastruktur-Management"
-    ],
+    ]
   },
   {
-    "company": "Ascon Systems Holding GmbH",    
+    "company": "Ascon Systems Holding GmbH",
     "position": "Senior Consultant",
     "since": "2023-04-01",
     "until": "2024-04-01",
@@ -61,10 +61,10 @@
       "Testmanagement",
       "Fehlerbehebung",
       "Spezifikationen"
-    ],
+    ]
   },
   {
-    "company": "Ascon Systems Holding GmbH",    
+    "company": "Ascon Systems Holding GmbH",
     "position": "Consultant",
     "since": "2019-06-01",
     "until": "2023-04-01",
@@ -85,7 +85,7 @@
       "Beratungsdienste",
       "Spezifikationen",
       "Microsoft Access"
-    ],
+    ]
   },
   {
     "company": "Autohaus BMW Hengge",
@@ -94,10 +94,11 @@
     "until": "2016-09-01",
     "time": "2011-07-01T00:00:00Z",
     "duration": "5 Jahre 3 Monate",
-   "Kenntnisse": ["Mechatronik",
+    "Kenntnisse": [
+      "Mechatronik",
       "Mechanik",
       "Maler- und Lackierarbeiten",
       "Schweißen"
-    ],
+    ]
   }
 ]
