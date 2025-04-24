@@ -1,37 +1,42 @@
 [
   {
-    "metric": "Senior Solutions Architect",
-    "von": "2024-04-01",
-    "bis": "2025-04-24",
+    "company": "Ascon Systems Holding GmbH",
+    "position": "Senior Solutions Architect",
+    "since": "2024-04-01",
+    "until": "2025-04-24",
     "time": "2024-04-01T00:00:00Z",
-    "value": "1 Jahr 1 Monat"
+    "duration": "1 Jahr 1 Monat"
   },
   {
-    "metric": "Senior Consultant",
-    "von": "2023-04-01",
-    "bis": "2024-04-01",
+    "company": "Ascon Systems Holding GmbH",    
+    "position": "Senior Consultant",
+    "since": "2023-04-01",
+    "until": "2024-04-01",
     "time": "2023-04-01T00:00:00Z",
-    "value": "1 Jahr"
+    "duration": "1 Jahr"
   },
   {
-    "metric": "Consultant",
-    "von": "2019-06-01",
-    "bis": "2023-04-01",
+    "company": "Ascon Systems Holding GmbH",    
+    "position": "Consultant",
+    "since": "2019-06-01",
+    "until": "2023-04-01",
     "time": "2019-06-01T00:00:00Z",
-    "value": "4 Jahre"
+    "duration": "4 Jahre"
   },
   {
-    "metric": "Werkstudent",
-    "von": "2016-10-01",
-    "bis": "2019-04-01",
+    "company": "NTT Data",
+    "position": "Werkstudent",
+    "since": "2016-10-01",
+    "until": "2019-04-01",
     "time": "2016-10-01T00:00:00Z",
-    "value": "2 Jahre 7 Monate"
+    "duration": "2 Jahre 7 Monate"
   },
   {
-    "metric": "Studentenjob",
-    "von": "2011-07-01",
-    "bis": "2016-09-01",
+    "company": "Autohaus BMW Hengge",
+    "position": "Studentenjob",
+    "since": "2011-07-01",
+    "until": "2016-09-01",
     "time": "2011-07-01T00:00:00Z",
-    "value": "5 Jahre 3 Monate"
+    "duration": "5 Jahre 3 Monate"
   }
 ]
